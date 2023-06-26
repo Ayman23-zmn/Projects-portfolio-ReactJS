@@ -31,8 +31,8 @@ const Experience = () => {
           <h4 className = "vertical-timeline-element-subtitle">
             University of Nebraska Omaha, NE
           </h4>
-          <h5> Developed text-based machine learning models for NSF Track-2 collaborators</h5>
-          <h5> Performed training and fine-tuning using various language models: BERT, spaCy, and GPT</h5>
+          <h5> Developed text-based machine learning models for <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920954&HistoricalAwards=false" target= "blank"> NSF Track-2</a> projects</h5>
+          <h5> Trained and fine-tuned machine learning models over various language frameworks: BERT, spaCy, and GPT</h5>
           <h5> Conducted data mining and data pre-processing techniques from unstructured data to build high quality dataset</h5>
           
         </VerticalTimelineElement>

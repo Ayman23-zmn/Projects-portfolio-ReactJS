@@ -5,6 +5,7 @@ import Proj4 from "../assets/img4.jpg"
 import Proj5 from "../assets/img5.jpg"
 import Proj6 from "../assets/img6.jpg"
 import Proj7 from "../assets/img7.jpg"
+import Proj8 from "../assets/img8.jpg"
 
 
 export const ProjectList = [
@@ -61,10 +62,20 @@ export const ProjectList = [
     {
         name: "Task tracker App",
         image: Proj7,
-        skills: "React, HTML , CSS, JS",
+        skills: "ReactJS, HTML , CSS",
         demoLink: "https://frolicking-torrone-01f68a.netlify.app",
-        sourceCodeLink: "https://github.com/example/repo4"
+        sourceCodeLink: "https://github.com/Ayman23-zmn/Task-tracker-App-reactJS-Frontend.git"
+    },
+
+    {
+        name: "Projects portfolio",
+        image: Proj8,
+        skills: "ReactJS, HTML , CSS",
+        demoLink: "https://frolicking-torrone-01f68a.netlify.app",
+        sourceCodeLink: "https://github.com/Ayman23-zmn/Task-tracker-App-reactJS-Frontend.git"
     }
+
+
 
 
 ]
